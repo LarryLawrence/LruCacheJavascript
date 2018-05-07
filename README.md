@@ -4,5 +4,6 @@ An [Least Recently Used (LRU) cache](https://en.wikipedia.org/wiki/Cache_replace
  ```get``` 
  ```snapshot``` .
 
----
+Feel free to use it^^
+
 [See also: My Blog](https://www.jianshu.com/p/6e549dfc17b7)
